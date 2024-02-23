@@ -2,8 +2,6 @@
 
 on:
   workflow_call:
-  push:
-    branches: [feature/*, main]
 
 jobs:
   precommit:
