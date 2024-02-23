@@ -1,0 +1,10 @@
+coverage
+ipywidgets
+pandas
+pre-commit
+pyarrow
+pydantic
+pytest
+ruff
+tqdm
+types-python-dateutil
