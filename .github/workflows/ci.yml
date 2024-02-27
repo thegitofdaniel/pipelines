@@ -1,5 +1,7 @@
 # https://docs.github.com/en/actions/using-workflows/reusing-workflows
 
+name: CI
+
 on:
   workflow_call:
   push:
